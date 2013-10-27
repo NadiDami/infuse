@@ -13,6 +13,4 @@ class Array
     memo
   end
 
-
-
 end

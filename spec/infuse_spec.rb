@@ -32,9 +32,8 @@ describe Array do
       expect(longest = %w{ cat sheep bear }.infuse do |memo, word|
                 memo.length > word.length ? memo : word 
                     end).to eq 'sheep'
-
     end
 
-end
+  end
 
 end
