@@ -18,5 +18,5 @@ The test was set by Enrique Comba Riepenhausen, [@ecomba](http://www.github.com/
 
 ###To do
 
-* Refator method to make it more DRY
+* Refactor the method to make it more DRY
 
